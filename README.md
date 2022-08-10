@@ -1,10 +1,31 @@
 - 👋 Hi, I’m @BengeeL
-- 👀 I’m interested in Learning how to become software engineer
-- 🌱 I’m currently learning C#, Python, HTML and CSS.
-- 💞️ I’m looking to collaborate on an iOS App
+- 👀 FullStack Software Engineer
+- 🌱 Fun fact about me: I don't eat meat.
+- 💞️ I’m looking for a FullStack Junior Role. 
 - 📫 How to reach me benjamin.lefebvre.1024@gmail.com
 
-<!---
-BengeeL/BengeeL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Skills inludes: 
+HTML
+CSS
+Javascript
+Python
+SQL
+NoSQL
+C#
+Swift
+Shell Script
+Node.JS
+Express.JS
+React.JS
+MongoDB
+Bootstrap
+jQuery
+EJS
+OAuth2.0
+Github
+Heroku
+Firebase
+MongoDB Atlas
+Google Domains
+Mailchimp
+Nodemailer
