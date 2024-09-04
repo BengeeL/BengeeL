@@ -1,24 +1,30 @@
 👋 Hi, I’m @BengeeL
 
 Software Engineering student looking to make an impact on the world.
-Enthusiastic about utilizing my skillset to work on complex challenges as a collaborative team member who adapts quickly.
+I am enthusiastic about utilizing my skillset to work on complex challenges as a collaborative team member who adapts quickly.
 (Also fluent in French)
 
-My Skillset inludes: 
-    HTML
-    CSS
+My Skillset includes: 
+    C#
+    .NET
+    Swift
+    Typescript
     Javascript
     Python
-    SQL
-    NoSQL
-    C#
-    Swift
-    Shell Script
+    Java
     Node.JS
     Express.JS
     React.JS
+    Vue.JS
+    Angular.JS
     MongoDB
     Bootstrap
+    HTML
+    CSS
+    Kotlin
+    SQL
+    NoSQL
+    Shell Script
     jQuery
     EJS
     OAuth2.0
