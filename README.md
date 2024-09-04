@@ -36,5 +36,5 @@ My Skillset includes:
     Mailchimp
     Nodemailer
 
-🌱 I don't eat meat - Hiit Workout and Yoga
+🌱 I don't eat meat - See me at Barry's for a Bootcamp
 📫 Reach me at benjamin.lefebvre.1024@gmail.com
