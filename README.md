@@ -13,14 +13,14 @@ I am enthusiastic about utilizing my skillset to work on complex challenges as a
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-5E7C7E?style=flat&logo=ejs&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=flat&logo=nosql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=sqlite&logoColor=white) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+### Cloud Platforms & Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### Tools & Services
-![OAuth2.0](https://img.shields.io/badge/OAuth2.0-000000?style=flat&logo=oauth&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google Domains](https://img.shields.io/badge/Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white) ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black) ![Nodemailer](https://img.shields.io/badge/Nodemailer-004F4F?style=flat&logo=nodemailer&logoColor=white)
+![OAuth2.0](https://img.shields.io/badge/OAuth2.0-000000?style=flat&logo=oauth&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![Google Domains](https://img.shields.io/badge/Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white) ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black) ![Nodemailer](https://img.shields.io/badge/Nodemailer-004F4F?style=flat&logo=nodemailer&logoColor=white)
 
-### Cloud Platforms & Databases
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+###  Databases
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white) 
 
 🌱 I don't eat meat - See me at Barry's for a Bootcamp
 📫 Reach me at benjamin.lefebvre.1024@gmail.com
