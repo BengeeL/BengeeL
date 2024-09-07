@@ -19,5 +19,6 @@ I am enthusiastic about utilizing my skillset to work on complex challenges as a
 ### Tools & Services
 ![OAuth2.0](https://img.shields.io/badge/OAuth2.0-000000?style=flat&logo=oauth&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![Google Domains](https://img.shields.io/badge/Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white) ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black) ![Nodemailer](https://img.shields.io/badge/Nodemailer-004F4F?style=flat&logo=nodemailer&logoColor=white)
 
-🌱 I don't eat meat - See me at Barry's for a Bootcamp
-📫 Reach me at benjamin.lefebvre.1024@gmail.com
+## 🎯 Fun Facts
+- I'm a fitness enthusiast and you might catch me at Barry's for a Bootcamp.
+- I love exploring new technologies and finding creative ways to implement them.
