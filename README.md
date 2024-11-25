@@ -2,7 +2,7 @@
 
 A passionate **Software Developer** with 1 year of professional experience and 3+ years of hands-on learning. I specialize in building scalable, user-friendly mobile and web applications using **Swift & React**. As for the server side, **Node.js, .Net (C#), Springboot (Java) and Python**.  
 
-My recent project, [FlavorShare](#), is a recipe-sharing app that combines my love of tech and innovative problem-solving. Let's build something great together!  
+My recent project, [FlavorShare](https://flavorshare.app), is a recipe-sharing app that combines my love of tech and innovative problem-solving. Let's build something great together!  
 
 💬 Fluent in English and French | Based in Toronto, Canada
 
@@ -26,7 +26,7 @@ My recent project, [FlavorShare](#), is a recipe-sharing app that combines my lo
 ![OAuth2.0](https://img.shields.io/badge/OAuth2.0-000000?style=flat&logo=oauth&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![Google Domains](https://img.shields.io/badge/Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white) ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black) ![Nodemailer](https://img.shields.io/badge/Nodemailer-004F4F?style=flat&logo=nodemailer&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)  
 
 ## 🔗 Featured Projects  
-- **[FlavorShare](#)**: An iOS app for recipe sharing and meal planning. Built with Swift and Node.js.  
+- **[FlavorShare](https://flavorshare.app)**: An iOS app for recipe sharing and meal planning. Built with Swift and Node.js.  
 - **[Summarizz](https://github.com/Turing-Sandbox/Turing-Sandbox-Web)**: A web application for sharing content is article form that integrated AI summaries and aim to save time for users.
 
 ## 🎯 Fun Facts  
