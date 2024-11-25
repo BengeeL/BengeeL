@@ -27,7 +27,7 @@ My recent project, [FlavorShare](#), is a recipe-sharing app that combines my lo
 
 ## 🔗 Featured Projects  
 - **[FlavorShare](#)**: An iOS app for recipe sharing and meal planning. Built with Swift and Node.js.  
-- **[Project Name](#)**: Describe another project briefly.  
+- **[Summarizz](#)**: A web application for sharing content is article form that integrated AI summaries and aim to save time for users.
 
 ## 🎯 Fun Facts  
 - Fitness enthusiast: I believe in discipline and consistency, whether at Sweat & Tonic or in tech development.  
