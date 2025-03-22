@@ -25,6 +25,8 @@ My recent project, [FlavorShare](https://flavorshare.app), is a recipe-sharing a
 ### Tools & Services
 ![OAuth2.0](https://img.shields.io/badge/OAuth2.0-000000?style=flat&logo=oauth&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![Google Domains](https://img.shields.io/badge/Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white) ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black) ![Nodemailer](https://img.shields.io/badge/Nodemailer-004F4F?style=flat&logo=nodemailer&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)  
 
+[![BengeeL's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BengeeL&theme=transparent&hide=jupyter%20notebook,CSS,less,HTML,astro,ejs&langs_count=10)](https://github.com/BengeeL/github-readme-stats)
+
 ## 🔗 Featured Projects  
 - **[FlavorShare](https://flavorshare.app)**: An iOS app for recipe sharing and meal planning. Built with Swift and Node.js.  
 - **[Summarizz](https://github.com/Turing-Sandbox/Turing-Sandbox-Web)**: A web application for sharing content is article form that integrated AI summaries and aim to save time for users.
